@@ -13,3 +13,5 @@ https://github.com/ivyhermosa/password-gen
 # deployed URL:
 
 
+# screenshot: 
+<img width="977" alt="Screen Shot 2022-07-24 at 2 17 41 PM" src="https://user-images.githubusercontent.com/103174285/180666232-d66bad9a-60ae-4c4d-a182-87917830ab58.png">
