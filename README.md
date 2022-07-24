@@ -7,7 +7,7 @@ This was created to randomly generate password. The generator will then provide 
 
 # github repo:
 
-
+https://github.com/ivyhermosa/password-gen
 
 
 # deployed URL:
